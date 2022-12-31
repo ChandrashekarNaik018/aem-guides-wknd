@@ -1,0 +1,6 @@
+/System/Volumes/Data/aem/Projectcode/vue/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/listeners/SimpleResourceListenerTest.java
+/System/Volumes/Data/aem/Projectcode/vue/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/schedulers/SimpleScheduledTaskTest.java
+/System/Volumes/Data/aem/Projectcode/vue/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/models/HelloWorldModelTest.java
+/System/Volumes/Data/aem/Projectcode/vue/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/filters/LoggingFilterTest.java
+/System/Volumes/Data/aem/Projectcode/vue/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/testcontext/AppAemContext.java
+/System/Volumes/Data/aem/Projectcode/vue/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/servlets/SimpleServletTest.java
